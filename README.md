@@ -63,8 +63,8 @@ Berikut ini adalah macam macam Crate dan Loot Drop dan Harga Crate Keynya :
 
 Crate           | Harga  | Loot & Peluang
 --------------- | ------ | -----------------
-Rare            | $ 250  | Iron 15x 30%</br>Gold 10x 25%</br>Diamond 7x 20%</br>Emerald 5x 15%</br>Sharpness i 1x 5%</br>Sharpness ii 1x 3</br>Efficiency i 1x 2%
-Legendary       | $ 500  | Diamond 10x 40%</br>Emerald 10x 20%</br>Netherite Ingot 2x 15%</br>Mending 10%</br>Shilk Touch 7 %</br>Efficiency iv 5%</br>Fire Aspect ii 3%
+Rare            | $ 250  | Iron 30%</br>Gold 25%</br>Diamond 20%</br>Emerald 15%</br>Sharpness i 5%</br>Sharpness ii 3</br>Efficiency i 2%
+Legendary       | $ 500  | Diamond 40%</br>Emerald 20%</br>Netherite Ingot 15%</br>Mending 10%</br>Shilk Touch 7%</br>Efficiency iv 5%</br>Fire Aspect ii 3%
 Cosmo           | $ 400  | Zonk 45%</br>Steve 17%</br>Zombie 13%</br>Skeleton 10%</br>Wither 6%</br>Creeper 4%</br>Elytra 3%</br>Dragon 2%
 
 ### 2.4 Rank
