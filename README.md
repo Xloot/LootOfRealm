@@ -91,4 +91,5 @@ Command      | Fungsi
 
 # Join Sekarang!
 
+Jika kalian menemukan bug atau punya ide untuk update server, bisa request di "Pull Request".
 by Davie ~ by Xloot
