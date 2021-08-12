@@ -13,6 +13,7 @@ Halo dan Selamat datang di Repositori Github Loot of Realm!👋
     * [2.2. Realm Store](#22-realm-store)
     * [2.3. Crate](#23-crate)
     * [2.4. Rank](#24-rank)
+* [3. Command](#3-command)
 
 # 1. Tentang
 
@@ -70,5 +71,20 @@ Cosmo           | $ 400  | Zonk 45%</br>Steve 17%</br>Zombie 13%</br>Skeleton 10
 ### 2.4 Rank
 
 Comming Soon.
+
+## 3. Command
+
+Berikut ini adalah list command Server Loot of Realm :
+
+Command      | Fungsi
+------------ | -------
+`/shop`      | Membuka Shop UI
+`/list`      | Melihat siapa saja yang online
+`/tpa`       | Teleport ke player
+`/startp`    | Koordinat awal
+`/endp`      | Koordinat Akhir
+`/landbuy`   | Membeli tanah
+`/spawn`     | Teleport ke original Spawn
+`/ranks`     | Melihat list Rank
 
 # Join Sekarang!
