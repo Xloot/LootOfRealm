@@ -1,6 +1,6 @@
 # Loot Of Realm Repositori
 
-[Logo](logo.png)
+![Logo](logo.png)
 
 Minecraft PE server Indonesia. Dengan menggunakan Pocketmine-MP. Oleh Xloot.
 Halo dan Selamat datang di Repositori Github Loot of Realm!👋
