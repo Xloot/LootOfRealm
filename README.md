@@ -90,3 +90,5 @@ Command      | Fungsi
 `/ranks`     | Melihat list Rank
 
 # Join Sekarang!
+
+by Davie ~ by Xloot
